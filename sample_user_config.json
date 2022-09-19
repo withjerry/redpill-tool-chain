@@ -1,13 +1,12 @@
 {
     "extra_cmdline": {
-      SasIdxMap
         "pid": "0x0001",
         "vid": "0x46f4",
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY"
-        "DiskIdxMap": 100008
-        "SataPortMap": 185
-        "SasIdxMap": 0
+        "DiskIdxMap": "100008"
+        "SataPortMap": "185"
+        "SasIdxMap": "0"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
